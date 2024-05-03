@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 document.addEventListener("DOMContentLoaded", function () {
     var typed = new Typed('#typed-engineering', {
-      strings: ['Engineering'],
+      strings: ['Engineer'],
       typeSpeed: 80,
       backSpeed: 60,
       loop: true 
