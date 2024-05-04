@@ -322,7 +322,7 @@ button:focus {
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
-/* Home Banner Area css
+/* Home Area css
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
@@ -440,7 +440,7 @@ button:focus {
           .banner_area .banner_inner .banner_content .page_link a:last-child:before {
             display: none; }
 
-/* End Home Banner Area css
+/* End Home Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
 .blog_btn {
@@ -2264,7 +2264,7 @@ Author E-mail: naimlasker@gmail.com
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #7B68EE;
+  border-left: 2px solid #4458dc;
   position: relative;
 }
 
@@ -2308,7 +2308,7 @@ Author E-mail: naimlasker@gmail.com
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #483D8B;
+  border: 2px solid #4458dc;
 }
 
 
@@ -2373,8 +2373,3 @@ Author E-mail: naimlasker@gmail.com
   border-radius: 12px;
   box-shadow: -8px 15px 7px 7px rgba(16, 16, 16, 0.13);
 }
-
-
-
-
-
