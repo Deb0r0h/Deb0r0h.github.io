@@ -29,7 +29,7 @@ $(document).ready(function(){
 
 
 document.getElementById('getCVBtn').addEventListener('click', function() {
-    window.open('pdf/coming.pdf', '_blank');
+    window.open('pdf/CV_github.pdf', '_blank');
 });
 
 
